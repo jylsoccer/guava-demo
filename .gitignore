@@ -1,0 +1,9 @@
+target/
+#pom.properties
+.classpath
+.project
+.settings/
+.DS_Store
+*.bat
+*.iml
+.idea/*
